@@ -1,8 +1,9 @@
-le 1er sujet q'on a choisi c'est:
+le 1er sujet  c'est:
 preparer des cartes ou on ecrit les noms des differents repas et des differents monuments en France et chaque personne a une carte et les autres personnes dans le groupe devinnent le mots en posant des question a la personne qui a la carte.
 
 le 2em sujet:
-PANTOMIME:
+
+Pantomime:
 Il y a 2 groupes de personnes et on choisi un mot pour chaque groupe sur le theme de tourisme et une personne dans ce groupe decrit le mot pour les autres dans son groupe en montrant des gestes sans 
 parler accun mot; juste en utilisant les mains et des gestes et des expressions facials et si les autres peuvent deviner, ce groupe obtient un point.
 
@@ -16,6 +17,16 @@ le 4em sujet:
 Chaque personne choisit un mot et l'écrit sur un papier en ne notant que la première et la dernière lettre du mot. Le reste des lettres est remplacé
  par des tirets. Ensuite, chacun passe son papier à la personne à côté de lui. Chaque joueur se retrouve ainsi avec un mot dont il doit deviner les lettres manquantes. 
 Chaque personne peut poser deux questions au groupe pour essayer de deviner son mot. Si elle n'y parvient pas, elle est éliminée.
+
+Le 5em sujet :
+
+
+
+
+Nous avons voté sur un jeu qui comprend Pantomime et Voyageurs Polyglottes qu'on a nommé "Voyage en Pantomime".
+
+
+
  
  
 
