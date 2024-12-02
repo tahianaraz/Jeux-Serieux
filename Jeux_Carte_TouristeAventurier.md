@@ -92,7 +92,7 @@ Les cartes Défi sont classées par niveau (facile, moyen, difficile) pour conve
 
 3. Restaurant
 
-
+---
 
 ### Cartes Situation :
 
@@ -104,7 +104,7 @@ Les cartes Défi sont classées par niveau (facile, moyen, difficile) pour conve
 
 3. Demander une recommandation
 
-
+---
 
 ### Cartes Défi :
 
