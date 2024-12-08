@@ -30,7 +30,8 @@ inscrit sur la carte placée sous la boîte, le joueur gagne la somme d'argent a
 et le joueur suivant peut tenter sa chance.
 
 ## Quel jeu est voté?
-Nous avons voté sur un jeu qui comprend Pantomime et Voyageurs Polyglottes qu'on a nommé  <u>*Voyage en Pantomime*</u>
+Le jeu est voyage culturelle
+
 
 
 
