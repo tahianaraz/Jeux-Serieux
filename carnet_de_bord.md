@@ -41,6 +41,24 @@ Les animateurs du jeu sont des étudiants étrangers et des étudiants français
 3. Des retours sur WhatsApp dès qu'un changement ou une nouvelle idée arrive.
 
 
+## Aujourd'hui  07/12/24
+
+1. Nous avons finis a detaillée le jeu 
+2. chacun a fini ses taches : fiche gamae , mind mapping
+3. documentation terminer mais si il y a des corrections on va corriger
+4. refaire la presentation
+5. prototype su figma faite 
+
+## Semaine prochaine
+
+1. rechercher des questions
+2. rechercher des maquettes pour la presentation en site web 
+3. reunion lundi 09/12/24
+
+
+
+
+
 
 
 
