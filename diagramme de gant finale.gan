@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?><project name="aventure culturelle " company="" webLink="http://" view-date="2024-12-08" view-index="0" gantt-divider-location="667" resource-divider-location="300" version="3.2.3230" locale="fr_FR">
+    <description/>
+    <view zooming-state="default:2" id="gantt-chart">
+        <field id="tpd3" name="Nom" width="221" order="0"/>
+        <field id="tpd4" name="Date de début" width="78" order="1"/>
+        <field id="tpd5" name="Date de fin" width="82" order="2"/>
+        <field id="tpd1" name="Priorité" width="138" order="3"/>
+        <field id="tpd8" name="Responsable" width="112" order="4"/>
+        <field id="tpd13" name="Ressources" width="20" order="5"/>
+        <option id="filter.completedTasks" value="false"/>
+        <option id="color.recent">
+            <![CDATA[#00cc00 #ffff00 #f4f4f4 #cc0033]]>
+        </option>
+    </view>
+    <view id="resource-table">
+        <field id="0" name="Nom" width="210" order="0"/>
+        <field id="1" name="Rôle par défaut" width="86" order="1"/>
+    </view>
+    <!-- -->
+    <calendars>
+        <day-types>
+            <day-type id="0"/>
+            <day-type id="1"/>
+            <default-week id="1" name="default" sun="1" mon="0" tue="0" wed="0" thu="0" fri="0" sat="0"/>
+            <only-show-weekends value="true"/>
+            <overriden-day-types/>
+            <days/>
+        </day-types>
+    </calendars>
+    <tasks empty-milestones="true">
+        <taskproperties>
+            <taskproperty id="tpd0" name="type" type="default" valuetype="icon"/>
+            <taskproperty id="tpd1" name="priority" type="default" valuetype="icon"/>
+            <taskproperty id="tpd2" name="info" type="default" valuetype="icon"/>
+            <taskproperty id="tpd3" name="name" type="default" valuetype="text"/>
+            <taskproperty id="tpd4" name="begindate" type="default" valuetype="date"/>
+            <taskproperty id="tpd5" name="enddate" type="default" valuetype="date"/>
+            <taskproperty id="tpd6" name="duration" type="default" valuetype="int"/>
+            <taskproperty id="tpd7" name="completion" type="default" valuetype="int"/>
+            <taskproperty id="tpd8" name="coordinator" type="default" valuetype="text"/>
+            <taskproperty id="tpd9" name="predecessorsr" type="default" valuetype="text"/>
+        </taskproperties>
+        <task id="14" name="gérer les taches du projet" color="#ffff00" meeting="false" start="2024-10-21" duration="74" complete="70" thirdDate="2024-10-21" thirdDate-constraint="0" priority="2" expand="true"/>
+        <task id="0" name="choisir le thème de jeux" color="#00cc00" meeting="false" start="2024-10-21" duration="16" complete="100" thirdDate="2024-12-09" thirdDate-constraint="0" priority="2" expand="true"/>
+        <task id="13" name="préparation de la carte montale" color="#00cc00" meeting="false" start="2024-10-21" duration="27" complete="100" thirdDate="2024-12-08" thirdDate-constraint="0" expand="true"/>
+        <task id="10" name="la rédaction des documents" color="#00cc00" meeting="false" start="2024-11-12" duration="27" complete="100" thirdDate="2024-11-19" thirdDate-constraint="0" expand="true"/>
+        <task id="1" name="déroulement de jeux" color="#00cc00" meeting="false" start="2024-11-18" duration="19" complete="100" thirdDate="2024-12-09" thirdDate-constraint="0" priority="4" expand="true"/>
+        <task id="15" name="Le design de jeux" color="#00cc00" meeting="false" start="2024-11-05" duration="12" complete="100" thirdDate="2024-11-01" thirdDate-constraint="0" priority="2" expand="true"/>
+        <task id="12" name="réservation de salle de travaille" color="#00cc00" meeting="false" start="2024-12-03" duration="1" complete="100" thirdDate="2024-12-04" thirdDate-constraint="0" expand="true"/>
+        <task id="5" name="préparation des questions" color="#ffff00" meeting="false" start="2024-12-05" duration="22" complete="90" thirdDate="2024-11-19" thirdDate-constraint="0" priority="4" expand="true"/>
+        <task id="11" name="Réservation de salle de travaille" color="#00cc00" meeting="false" start="2024-12-07" duration="1" complete="100" thirdDate="2024-12-13" thirdDate-constraint="0" expand="true"/>
+        <task id="16" name="Rédaction de la présentation" color="#00cc00" meeting="false" start="2024-12-07" duration="2" complete="100" thirdDate="2024-11-01" thirdDate-constraint="0" priority="2" expand="true"/>
+        <task id="17" name="Réservation de la salle de travaille" color="#00cc00" meeting="false" start="2024-12-09" duration="1" complete="100" thirdDate="2024-12-03" thirdDate-constraint="0" expand="true"/>
+        <task id="6" name="création des cartes" color="#ffff00" meeting="false" start="2024-12-09" duration="25" complete="20" thirdDate="2024-11-19" thirdDate-constraint="0" priority="4" expand="true"/>
+        <task id="7" name="création de table de jeux" color="#ffff00" meeting="false" start="2024-12-09" duration="25" complete="20" thirdDate="2024-11-19" thirdDate-constraint="0" priority="4" expand="true"/>
+        <task id="2" name="prototype de jeux" color="#ffff00" meeting="false" start="2024-12-09" duration="25" complete="20" thirdDate="2024-12-09" thirdDate-constraint="0" priority="4" expand="true"/>
+        <task id="8" name="Acheter sablier , dee , pions" color="#ffff00" meeting="false" start="2024-12-10" duration="24" complete="0" thirdDate="2024-11-19" thirdDate-constraint="0" priority="4" expand="true"/>
+        <task id="9" name="Faire une page web pour la representation" color="#ffff00" meeting="false" start="2024-12-18" duration="16" complete="0" thirdDate="2024-11-19" thirdDate-constraint="0" priority="4" expand="true"/>
+    </tasks>
+    <resources>
+        <resource id="0" name="zouzou" function="Default:1" contacts="" phone=""/>
+        <resource id="1" name="Sabrina fellag" function="Default:0" contacts="" phone=""/>
+        <resource id="2" name="Ali Bodour " function="Default:0" contacts="" phone=""/>
+        <resource id="3" name="zahra Pouri " function="Default:0" contacts="" phone=""/>
+        <resource id="4" name="Parisa" function="Default:0" contacts="" phone=""/>
+        <resource id="5" name="Lehara Lyes" function="Default:0" contacts="" phone=""/>
+    </resources>
+    <allocations>
+        <allocation task-id="13" resource-id="0" function="Default:0" responsible="true" load="100.0"/>
+        <allocation task-id="1" resource-id="0" function="Default:0" responsible="true" load="100.0"/>
+        <allocation task-id="15" resource-id="0" function="Default:0" responsible="false" load="100.0"/>
+        <allocation task-id="8" resource-id="0" function="Default:0" responsible="true" load="100.0"/>
+        <allocation task-id="9" resource-id="0" function="Default:0" responsible="true" load="100.0"/>
+        <allocation task-id="10" resource-id="1" function="Default:0" responsible="true" load="100.0"/>
+        <allocation task-id="1" resource-id="1" function="Default:0" responsible="false" load="100.0"/>
+        <allocation task-id="5" resource-id="1" function="Default:0" responsible="true" load="100.0"/>
+        <allocation task-id="7" resource-id="1" function="Default:0" responsible="false" load="100.0"/>
+        <allocation task-id="5" resource-id="2" function="Default:0" responsible="false" load="100.0"/>
+        <allocation task-id="6" resource-id="2" function="Default:0" responsible="true" load="100.0"/>
+        <allocation task-id="8" resource-id="2" function="Default:0" responsible="false" load="100.0"/>
+        <allocation task-id="0" resource-id="3" function="Default:0" responsible="true" load="100.0"/>
+        <allocation task-id="16" resource-id="3" function="Default:0" responsible="false" load="100.0"/>
+        <allocation task-id="6" resource-id="3" function="Default:0" responsible="false" load="100.0"/>
+        <allocation task-id="8" resource-id="3" function="Default:0" responsible="false" load="100.0"/>
+        <allocation task-id="1" resource-id="4" function="Default:0" responsible="false" load="100.0"/>
+        <allocation task-id="16" resource-id="4" function="Default:0" responsible="true" load="100.0"/>
+        <allocation task-id="7" resource-id="4" function="Default:0" responsible="true" load="100.0"/>
+        <allocation task-id="14" resource-id="5" function="Default:0" responsible="true" load="100.0"/>
+        <allocation task-id="13" resource-id="5" function="Default:0" responsible="false" load="100.0"/>
+        <allocation task-id="15" resource-id="5" function="Default:0" responsible="true" load="100.0"/>
+        <allocation task-id="12" resource-id="5" function="Default:0" responsible="true" load="100.0"/>
+        <allocation task-id="11" resource-id="5" function="Default:0" responsible="true" load="100.0"/>
+        <allocation task-id="17" resource-id="5" function="Default:0" responsible="true" load="100.0"/>
+        <allocation task-id="2" resource-id="5" function="Default:0" responsible="true" load="100.0"/>
+        <allocation task-id="9" resource-id="5" function="Default:0" responsible="false" load="100.0"/>
+    </allocations>
+    <vacations/>
+    <previous/>
+    <roles roleset-name="Default"/>
+</project>
