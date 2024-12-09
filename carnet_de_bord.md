@@ -55,6 +55,11 @@ Les animateurs du jeu sont des étudiants étrangers et des étudiants français
 2. rechercher des maquettes pour la presentation en site web 
 3. reunion lundi 09/12/24
 
+## Aujourd'hui  09/12/24
+1. correction du public cible 
+2. Envoi des documents ( nous avons términé tous les documents à 17:30)
+3. Vérification du mail . Faute : on a oublié d'envoyer la documentation et on a envoyer les points faibles 2 fois de suite . On doit reenvoyer la documentation
+
 
 
 
