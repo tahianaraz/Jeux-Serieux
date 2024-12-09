@@ -84,4 +84,4 @@ Le projet *Voyage Culturel* démontre qu’il est possible de combiner apprentis
 
 ---
 
-*Note : Ce document en markdown (.md) peut être converti au format PDF (par exemple, via un outil comme `pandoc`) pour une distribution plus formelle.*
+
