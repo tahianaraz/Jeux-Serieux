@@ -60,6 +60,10 @@ Les animateurs du jeu sont des étudiants étrangers et des étudiants français
 2. Envoi des documents ( nous avons términé tous les documents à 17:30)
 3. Vérification du mail . Faute : on a oublié d'envoyer la documentation et on a envoyer les points faibles 2 fois de suite . On doit reenvoyer la documentation
 
+##  semaine du 15/12/24
+
+Recherche des questions et repones sur la partie culture et partie langue
+
 
 
 
