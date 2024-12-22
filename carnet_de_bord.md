@@ -64,6 +64,12 @@ Les animateurs du jeu sont des étudiants étrangers et des étudiants français
 
 Recherche des questions et repones sur la partie culture et partie langue
 
+##  semaine du 17/12/24
+
+recherche du meilleur template
+
+
+
 
 
 
