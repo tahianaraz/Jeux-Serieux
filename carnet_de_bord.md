@@ -68,6 +68,14 @@ Recherche des questions et repones sur la partie culture et partie langue
 
 recherche du meilleur template
 
+## semaine du 13 janvier 
+1. On a tester le jeu avec le groupe dance et swing
+2. Le plateau de jeu est tres petit et c est difficil de jouer , mettre en A4
+3. les jouerus ont trouver diffcile la partie culture sur la gastronomie francaise
+4. reorganiser donc les questions 
+5. Ils ont appris de nouvels choses sur la culture francaise , objectif atteint
+
+
 
 
 
