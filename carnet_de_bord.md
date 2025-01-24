@@ -64,16 +64,35 @@ Les animateurs du jeu sont des étudiants étrangers et des étudiants français
 
 Recherche des questions et repones sur la partie culture et partie langue
 
+
+
 ##  semaine du 17/12/24
 
 recherche du meilleur template
 
+## semaine vacance 
+
+mise en forme du site web pour la présentation du jeu 
+
 ## semaine du 13 janvier 
 1. On a tester le jeu avec le groupe dance et swing
-2. Le plateau de jeu est tres petit et c est difficil de jouer , mettre en A4
-3. les jouerus ont trouver diffcile la partie culture sur la gastronomie francaise
-4. reorganiser donc les questions 
+2. Le plateau de jeu est tres petit et c est difficil de jouer , mettre en A3
+3. les joueus ont trouver diffcile la partie culture sur la gastronomie francaise
+4. Bien reformuler les questions
 5. Ils ont appris de nouvels choses sur la culture francaise , objectif atteint
+
+## semaine du 20 janvier 
+1. Test avec groupe Fromage 
+2. Ils ont aimé le jeu , les règles et aussi le concept "carte souvenir"
+3. L'objectif est atteint : apprendre la langue francaise  et la culture francaise 
+4. Critique des joueurs : diminuer les cases vides 
+5. Notre point de vue : ils ont apprécié le jeu, mais ils souhaitent être dans les cases de questions. Ils ont appris la grammaire, la conjugaison et la gastronomie.
+6. Il faut acheter un dé mais aussi des pions 
+7. Mettre le site web dans le github
+8. Mise au point pour la présentation , le jeudi 23 janvier salle de travail 0.3 bu sciences 
+9. Nous avons pris en compte les retours en diminuant les cases vides , en achetant un dé et des pions 
+10. presentation OK 
+
 
 
 
