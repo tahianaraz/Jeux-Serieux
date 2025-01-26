@@ -1,0 +1,60 @@
+.header-area .main-nav .nav li:last-child a,
+.background-header .main-nav .nav li:last-child a {
+  color: #2a2a2a !important;
+}
+
+#gameplay {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  gap: 30px;
+}
+
+#gameplay .rules {
+  flex: 1;
+  font-size: 18px;
+}
+
+#gameplay .questions {
+  flex: 1;
+  font-size: 16px;
+}
+
+#gameplay h2 {
+  font-size: 24px;
+  margin-bottom: 20px;
+}
+
+#gameplay h3 {
+  font-size: 20px;
+  margin-top: 20px;
+}
+
+#gameplay p,
+#gameplay ul {
+  margin-bottom: 10px;
+}
+.regle{
+color: #FFF;
+}
+
+.imageabout{
+
+ 
+ border-radius: 20px;
+ -webkit-box-shadow: 2px 2px 5px 0px rgba(0, 0, 0, 1);
+ -moz-box-shadow: 2px 2px 5px 0px rgba(0, 0, 0, 1);
+ box-shadow: 2px 2px 5px 0px rgba(0, 0, 0, 1);
+}
+.titreJouer1{
+ color: #03a4ed;
+}
+.titreJouer2{
+ color: #fe3f40;
+}
+.imagedebut{
+ border-radius: 20px;
+ -webkit-box-shadow: 2px 2px 5px 0px rgba(0, 0, 0, 1);
+ -moz-box-shadow: 2px 2px 5px 0px rgba(0, 0, 0, 1);
+ box-shadow: 2px 2px 5px 0px rgba(0, 0, 0, 1);
+}
